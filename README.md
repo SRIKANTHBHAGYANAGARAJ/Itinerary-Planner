@@ -100,3 +100,4 @@ Access the app at:
 - 📍 Google Maps Integration for destinations
 - 🧠 AI-powered smart recommendations
 - 📅 Custom Itinerary Planner
+"Real update" 
